@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KOBonilla/MyPortfolio](https://github.com/KOBonilla/MyPortfolio)
 
-- 📫 How to reach me **Khalilbonilla@yahoo.com**
+- 📫 How to reach me **Khabotech@gmail.com**
 
 - ⚡ Fun fact **My life goal is to learn a little about everything possible**
 
