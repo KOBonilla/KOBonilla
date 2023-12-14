@@ -12,7 +12,7 @@
 - ⚡ Fun fact **My life goal is to learn a little about everything possible**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Free coding resources : https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
