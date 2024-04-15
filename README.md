@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KOBonilla/MyPortfolio](https://github.com/KOBonilla/MyPortfolio)
 
-- 💬 Ask me about **Being a DAD, being a Barber, or being in the Navy!**
+- 💬 Ask me about **being a DAD, being a Barber, or being in the Navy!**
 
 - 📫 How to reach me **KhaboTech@gmail.com**
 
